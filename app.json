@@ -19,7 +19,7 @@
         },
         "AUTH_USERS": {
             "description": "Telegram Ids Of Auth Users, Only they can use this bot. Separate them by space!",
-            "required": true
+            "required": false
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
@@ -31,7 +31,7 @@
             "value": "False"
         },
         "LOGS_CHANNEL": {
-            "description": "Make a private channel and forward a message from that channel to @ChannelidHEXbot and Get this. Not Mandatory",
+            "description": "Make a private channel and forward a message from that channel to @harshitethicteam and Get this. Not Mandatory",
             "required": false,
             "value": ""
         },
